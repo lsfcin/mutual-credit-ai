@@ -6,7 +6,7 @@ Draft, contribuições e related work: [draft.md](draft.md).
 <!-- routing:start -->
 ## Routing
 
-| File | Interface | API | Description |
-|------|-----------|-----|-------------|
-| [`draft.md`](draft.md) | — | — | Mutual-Credit-AI — Draft Outline |
+| File | Description |
+|------|-------------|
+| [`draft.md`](draft.md) | Mutual-Credit-AI — Draft Outline |
 <!-- routing:end -->
