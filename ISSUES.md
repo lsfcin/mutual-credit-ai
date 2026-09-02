@@ -160,7 +160,7 @@ Clean.
 
 *two machines share this workspace — push it, or give the repo a remote to push to: code/SPECS-git.md § Push policy*
 
-- academy/papers/mutual-credit-ai — main is 6 ahead of origin/main
+- academy/papers/mutual-credit-ai — main is 7 ahead of origin/main
 
 ### Local branches already merged into their base
 
